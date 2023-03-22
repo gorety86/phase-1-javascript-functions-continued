@@ -511,4 +511,4 @@ this module.
 [helephant]: https://web.archive.org/web/20170606141950/http://helephant.com/2008/08/19/functions-are-first-class-objects-in-javascript/
 [2ality]: http://2ality.com/2012/09/expressions-vs-statements.html
 [mdn]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements
-[mdn-fn]: https://developer.mozilla.org/en-US/docs/web/JavaScript/Reference/Operators/function
+
